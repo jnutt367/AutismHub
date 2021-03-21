@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="61.53" height="32.06"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="61.53" height="32.06" class="class-c28sjwswu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61.53 32.06" class="class-c28sjwswu">
+    <g data-name="Layer 2">
+        <g data-name="Layer 1">
+            <rect x="13.24" width="35.04" height="7.95" rx="3.51" class="fill-color-1"></rect>
+            <g opacity=".3" fill="none" stroke-miterlimit="10" stroke-width=".25" class="stroke-color-0">
+                <path d="M25.14 0v5.41M35.14 0v5.41"></path>
+            </g>
+            <path d="M34.07 7.9L34 8h10.8a3.51 3.51 0 003.51-3.51v-.98A3.51 3.51 0 0044.78 0h-2s-1.39 4-8.71 7.9z" class="fill-color-0"></path>
+            <rect y="2.29" width="61.53" height="29.77" rx="7.42" class="fill-color-1"></rect>
+            <path d="M61.53 9.71a7.42 7.42 0 00-5.22-7.09C40.38 15.5 13.52 26.28 2.67 30.34a7.39 7.39 0 004.75 1.72h46.69a7.42 7.42 0 007.42-7.42z" class="fill-color-0"></path>
+            <rect x="2.83" y="5.41" width="55.87" height="23.54" rx="5.89" class="fill-color-0-shadow"></rect>
+            <path d="M8.72 28.94h44.09a5.89 5.89 0 005.89-5.89V11.3a5.89 5.89 0 00-5.89-5.89h-.15C38.54 15.6 18.51 24.18 7 28.68a5.84 5.84 0 001.72.26z" class="fill-color-0-shadow-extra"></path>
+            <path d="M11.24 12.84l.44-.43L13 13.72v2.64l-1.32 1.32-.44-.44zm0 5.28l.44-.44L13 19v2.64L11.68 23l-.44-.44zM17 11.53l.44.44-1.32 1.31h-2.68L12.12 12l.44-.44zm-4.4 12.3l-.44-.44 1.32-1.31h2.64l1.32 1.31-.44.44zm5.72-6.59l-.44.44-1.32-1.32v-2.64l1.32-1.31.44.43zm0 5.28l-.44.44-1.32-1.32V19l1.32-1.32.44.44zM19.16 12.84l.44-.43 1.31 1.31v2.64l-1.31 1.32-.44-.44zm5.71-1.31l.44.44L24 13.28h-2.65L20 12l.44-.44zm1.32 5.71l-.44.44-1.32-1.32v-2.64l1.32-1.31.44.43zm0 5.28l-.44.44-1.32-1.32V19l1.32-1.32.44.44zM31.21 14.42a.86.86 0 01.25.62.84.84 0 01-.25.62.83.83 0 01-.62.26.89.89 0 01-.88-.88.83.83 0 01.26-.62.85.85 0 01.62-.26.87.87 0 01.62.26zm0 5.28a.84.84 0 01.25.62.86.86 0 01-.25.62.87.87 0 01-.62.26.85.85 0 01-.62-.26.83.83 0 01-.26-.62.89.89 0 01.88-.88.83.83 0 01.62.26zM40.7 11.53l.44.44-1.32 1.31h-2.64L35.86 12l.44-.44zm-4.4 12.3l-.44-.44 1.32-1.31h2.64l1.32 1.31-.44.44zm0-6.15l.88-.88h2.64l.88.88-.88.88h-2.64zm5.7-.44l-.43.44-1.32-1.32v-2.64l1.32-1.31.43.43zm0 5.28l-.43.44-1.32-1.32V19l1.32-1.32.43.44zM42.89 12.84l.44-.43 1.32 1.31v2.64l-1.32 1.32-.44-.44zm0 5.28l.44-.44L44.65 19v2.64L43.33 23l-.44-.44zm5.72-6.59l.44.44-1.32 1.31h-2.64L43.77 12l.44-.44zm-4.4 12.3l-.44-.44 1.32-1.31h2.64l1.32 1.31-.44.44zm5.72-6.59l-.44.44-1.32-1.32v-2.64l1.32-1.31.44.43zm0 5.28l-.44.44-1.32-1.32V19l1.32-1.32.44.44z" class="fill-white"></path>
+        </g>
+    </g>
+</svg></svg><style>.class-c28sjwswu .fill-skin {
+  fill: #f1d9b1;
+}
+.class-c28sjwswu .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-c28sjwswu .fill-hair {
+  fill: #1e1d20;
+}
+.class-c28sjwswu .fill-hair-shadow {
+  fill: #1b1a1d;
+}
+.class-c28sjwswu .fill-white {
+  fill: #f0f0f0;
+}
+.class-c28sjwswu .fill-white-shadow {
+  fill: #d8d8d8;
+}
+.class-c28sjwswu .fill-white-shadow-extra {
+  fill: #c2c2c2;
+}
+.class-c28sjwswu .stop-color-white {
+  stop-color: #f0f0f0;
+}
+.class-c28sjwswu .stop-color-white-shadow {
+  stop-color: #d8d8d8;
+}
+.class-c28sjwswu .stop-color-white-shadow-extra {
+  stop-color: #c2c2c2;
+}
+.class-c28sjwswu .stroke-white {
+  stroke: #f0f0f0;
+}
+.class-c28sjwswu .stroke-white-shadow {
+  stroke: #d8d8d8;
+}
+.class-c28sjwswu .stroke-white-shadow-extra {
+  stroke: #b5b5b5;
+}
+.class-c28sjwswu .fill-yellow {
+  fill: #eaea00;
+}
+.class-c28sjwswu .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-c28sjwswu .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-c28sjwswu .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-c28sjwswu .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-c28sjwswu .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-c28sjwswu .fill-green {
+  fill: #3a7152;
+}
+.class-c28sjwswu .fill-green-shadow {
+  fill: #34664a;
+}
+.class-c28sjwswu .fill-green-shadow-extra {
+  fill: #2f5c42;
+}
+.class-c28sjwswu .stop-color-green {
+  stop-color: #3a7152;
+}
+.class-c28sjwswu .stop-color-green-shadow {
+  stop-color: #34664a;
+}
+.class-c28sjwswu .stop-color-green-shadow-extra {
+  stop-color: #2f5c42;
+}
+.class-c28sjwswu .stroke-green {
+  stroke: #3a7152;
+}
+.class-c28sjwswu .stroke-green-shadow {
+  stroke: #34664a;
+}
+.class-c28sjwswu .stroke-green-shadow-extra {
+  stroke: #2c553e;
+}
+.class-c28sjwswu .fill-red {
+  fill: #ce3827;
+}
+.class-c28sjwswu .fill-red-shadow {
+  fill: #b93223;
+}
+.class-c28sjwswu .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-c28sjwswu .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-c28sjwswu .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-c28sjwswu .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-c28sjwswu .fill-orange {
+  fill: #f09c25;
+}
+.class-c28sjwswu .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-c28sjwswu .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-c28sjwswu .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-c28sjwswu .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-c28sjwswu .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-c28sjwswu .fill-blue {
+  fill: #3b7ded;
+}
+.class-c28sjwswu .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-c28sjwswu .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-c28sjwswu .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-c28sjwswu .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-c28sjwswu .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-c28sjwswu .fill-color-0 {
+  fill: #1e1d20;
+}
+.class-c28sjwswu .fill-color-0-shadow {
+  fill: #1b1a1d;
+}
+.class-c28sjwswu .fill-color-0-shadow-extra {
+  fill: #171618;
+}
+.class-c28sjwswu .stop-color-color-0 {
+  stop-color: #1e1d20;
+}
+.class-c28sjwswu .fill-color-1 {
+  fill: #77844b;
+}
+.class-c28sjwswu .fill-color-1-shadow {
+  fill: #6b7743;
+}
+.class-c28sjwswu .fill-color-1-shadow-extra {
+  fill: #5a6438;
+}
+.class-c28sjwswu .fill-body-detail {
+  fill: #ffffff;
+}
+.class-c28sjwswu .stroke-color-0 {
+  stroke: #1e1d20;
+}
+.class-c28sjwswu .stroke-color-0-shadow {
+  stroke: #1b1a1d;
+}
+.class-c28sjwswu .stroke-color-0-shadow-extra {
+  stroke: #171618;
+}
+.class-c28sjwswu .stroke-color-1 {
+  stroke: #77844b;
+}
+.class-c28sjwswu .stroke-color-1-shadow {
+  stroke: #6b7743;
+}
+.class-c28sjwswu .stroke-color-1-shadow-extra {
+  stroke: #5a6438;
+}</style></svg>

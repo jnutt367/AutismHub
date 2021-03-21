@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="193.87" height="147.92"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="193.87" height="147.92" class="class-i59d95c9g"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 193.87 147.92" class="class-i59d95c9g">
+    <g data-name="Layer 2">
+        <path d="M1.66 39.9S14 1.08 60.49 17.49c18 6.35 41.65 6.35 55.67-2.59 34.74-22.15 57.46-17.69 70 .86 22.92 33.85-12.57 48.51-14.25 78.75-1.06 18.92-3 55-48.21 53.35-54.87-2-36.75-40.21-79.22-50.15S-3.63 56 1.66 39.9z" data-name="Layer 1" class="fill-color-0"></path>
+    </g>
+</svg></svg><style>.class-i59d95c9g .fill-skin {
+  fill: #f1d9b1;
+}
+.class-i59d95c9g .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-i59d95c9g .fill-hair {
+  fill: #2b292e;
+}
+.class-i59d95c9g .fill-hair-shadow {
+  fill: #272529;
+}
+.class-i59d95c9g .fill-white {
+  fill: #f0f0f0;
+}
+.class-i59d95c9g .fill-white-shadow {
+  fill: #d8d8d8;
+}
+.class-i59d95c9g .fill-white-shadow-extra {
+  fill: #c2c2c2;
+}
+.class-i59d95c9g .stop-color-white {
+  stop-color: #f0f0f0;
+}
+.class-i59d95c9g .stop-color-white-shadow {
+  stop-color: #d8d8d8;
+}
+.class-i59d95c9g .stop-color-white-shadow-extra {
+  stop-color: #c2c2c2;
+}
+.class-i59d95c9g .stroke-white {
+  stroke: #f0f0f0;
+}
+.class-i59d95c9g .stroke-white-shadow {
+  stroke: #d8d8d8;
+}
+.class-i59d95c9g .stroke-white-shadow-extra {
+  stroke: #b5b5b5;
+}
+.class-i59d95c9g .fill-yellow {
+  fill: #eaea00;
+}
+.class-i59d95c9g .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-i59d95c9g .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-i59d95c9g .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-i59d95c9g .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-i59d95c9g .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-i59d95c9g .fill-green {
+  fill: #3a7152;
+}
+.class-i59d95c9g .fill-green-shadow {
+  fill: #34664a;
+}
+.class-i59d95c9g .fill-green-shadow-extra {
+  fill: #2f5c42;
+}
+.class-i59d95c9g .stop-color-green {
+  stop-color: #3a7152;
+}
+.class-i59d95c9g .stop-color-green-shadow {
+  stop-color: #34664a;
+}
+.class-i59d95c9g .stop-color-green-shadow-extra {
+  stop-color: #2f5c42;
+}
+.class-i59d95c9g .stroke-green {
+  stroke: #3a7152;
+}
+.class-i59d95c9g .stroke-green-shadow {
+  stroke: #34664a;
+}
+.class-i59d95c9g .stroke-green-shadow-extra {
+  stroke: #2c553e;
+}
+.class-i59d95c9g .fill-red {
+  fill: #ce3827;
+}
+.class-i59d95c9g .fill-red-shadow {
+  fill: #b93223;
+}
+.class-i59d95c9g .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-i59d95c9g .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-i59d95c9g .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-i59d95c9g .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-i59d95c9g .fill-orange {
+  fill: #f09c25;
+}
+.class-i59d95c9g .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-i59d95c9g .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-i59d95c9g .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-i59d95c9g .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-i59d95c9g .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-i59d95c9g .fill-blue {
+  fill: #3b7ded;
+}
+.class-i59d95c9g .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-i59d95c9g .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-i59d95c9g .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-i59d95c9g .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-i59d95c9g .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-i59d95c9g .fill-color-0 {
+  fill: #2b292e;
+}
+.class-i59d95c9g .fill-color-0-shadow {
+  fill: #272529;
+}
+.class-i59d95c9g .fill-color-0-shadow-extra {
+  fill: #211f22;
+}
+.class-i59d95c9g .stop-color-color-0 {
+  stop-color: #2b292e;
+}
+.class-i59d95c9g .fill-color-1 {
+  fill: #a4b176;
+}
+.class-i59d95c9g .fill-color-1-shadow {
+  fill: #97a663;
+}
+.class-i59d95c9g .fill-color-1-shadow-extra {
+  fill: #808d51;
+}
+.class-i59d95c9g .fill-color-2 {
+  fill: #53a175;
+}
+.class-i59d95c9g .fill-color-2-shadow {
+  fill: #4b9169;
+}
+.class-i59d95c9g .fill-color-2-shadow-extra {
+  fill: #3f7958;
+}
+.class-i59d95c9g .fill-color-3 {
+  fill: #2b6e71;
+}
+.class-i59d95c9g .fill-color-3-shadow {
+  fill: #276366;
+}
+.class-i59d95c9g .fill-color-3-shadow-extra {
+  fill: #215355;
+}
+.class-i59d95c9g .fill-body-detail {
+  fill: #ffffff;
+}
+.class-i59d95c9g .stroke-color-0 {
+  stroke: #2b292e;
+}
+.class-i59d95c9g .stroke-color-0-shadow {
+  stroke: #272529;
+}
+.class-i59d95c9g .stroke-color-0-shadow-extra {
+  stroke: #211f22;
+}
+.class-i59d95c9g .stroke-color-1 {
+  stroke: #a4b176;
+}
+.class-i59d95c9g .stroke-color-1-shadow {
+  stroke: #97a663;
+}
+.class-i59d95c9g .stroke-color-1-shadow-extra {
+  stroke: #808d51;
+}
+.class-i59d95c9g .stroke-color-2 {
+  stroke: #53a175;
+}
+.class-i59d95c9g .stroke-color-2-shadow {
+  stroke: #4b9169;
+}
+.class-i59d95c9g .stroke-color-2-shadow-extra {
+  stroke: #3f7958;
+}
+.class-i59d95c9g .stroke-color-3 {
+  stroke: #2b6e71;
+}
+.class-i59d95c9g .stroke-color-3-shadow {
+  stroke: #276366;
+}
+.class-i59d95c9g .stroke-color-3-shadow-extra {
+  stroke: #215355;
+}</style></svg>
